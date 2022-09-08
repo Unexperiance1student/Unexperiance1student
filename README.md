@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Unexperiance1student
+- 👋 Hi, I’m Vladislav
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on permanent basis
