@@ -10,8 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![React](https://user-images.githubusercontent.com/75188379/208157960-1d0a16a5-4076-4a98-b065-23c366d8ea51.svg)
-
+<img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
 
