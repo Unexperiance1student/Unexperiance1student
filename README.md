@@ -1,5 +1,8 @@
 
-[![Unexperiance1student](https://img.freepik.com/premium-vector/man-working-on-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg)]
+![Unexperiance1student](https://img.freepik.com/premium-vector/man-working-on-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg)]
+
+Меня зовут **Владислав Дисяцкий** я занимаюсь веб-разработкой год.
+
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
@@ -11,6 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+![Gulp](https://img.shields.io/badge/-Gulp-333?style=for-the-badge&logo=Gulp)  
 <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React"/>
 <img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript"/>
 
