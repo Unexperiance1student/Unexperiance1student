@@ -1,5 +1,5 @@
 
-![Unexperiance1student](https://img.freepik.com/premium-vector/man-working-on-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg)]
+![Unexperiance1student](https://img.freepik.com/premium-vector/man-working-on-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg)
 
 Меня зовут **Владислав Дисяцкий** я занимаюсь веб-разработкой год.
 
