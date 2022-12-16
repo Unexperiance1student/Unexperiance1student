@@ -11,9 +11,9 @@
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
 <img src="https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React"/>
+<img src="https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=TypeScript"/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
-
-
 
 
 ### Контакты
