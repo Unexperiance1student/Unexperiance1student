@@ -2,7 +2,7 @@
 ![Unexperiance1student](https://img.freepik.com/premium-vector/man-working-on-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg)
 
 ## Юный фрилансер
-Меня зовут **Владислав**, я занимаюсь веб-разработкой год.ф
+Меня зовут **Владислав**, я занимаюсь веб-разработкой год.фф
 
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
