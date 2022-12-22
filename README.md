@@ -1,8 +1,8 @@
 
-![Unexperiance1student](https://img.freepik.com/premium-vector/man-working-on-laptop-icon-illustration-work-from-home-mascot-cartoon-character_138676-1088.jpg)
+![Unexperiance1student][(https://camo.githubusercontent.com/b5cc864d4234ccb453a75a4a2eded5471bef6398cefe3cef062b304b5ca37fff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636b723457327070785042654946386478342f67697068792e676966)]
 
-## Юный фрилансер
-Меня зовут **Владислав**, я занимаюсь веб-разработкой год.
+## Frontend Developer
+My name is **Vladislav**, I'm React developer.
 
 ### Статистика на GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
