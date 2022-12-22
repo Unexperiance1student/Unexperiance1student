@@ -1,4 +1,4 @@
-![Unexperiance1student][(https://camo.githubusercontent.com/b5cc864d4234ccb453a75a4a2eded5471bef6398cefe3cef062b304b5ca37fff/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f636b723457327070785042654946386478342f67697068792e676966)]
+<img width="100%" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="">
 
 ## Frontend Developer
 My name is **Vladislav**, I'm React developer.
