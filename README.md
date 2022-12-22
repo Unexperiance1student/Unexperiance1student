@@ -3,10 +3,10 @@
 ## Frontend Developer
 My name is **Vladislav**, I'm React developer.
 
-### Статистика на GitHub
+### Statistics on GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
-### Мой стек технологий
+### My technology stack
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
 ![SCSS](https://img.shields.io/badge/-SCSS-333?style=for-the-badge&logo=SASS)
@@ -23,6 +23,6 @@ My name is **Vladislav**, I'm React developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
 
-### Контакты
+### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ermungand)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Unexperiance1student)
