@@ -19,7 +19,10 @@ My name is **Vladislav**, I'm React developer.
 ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=Webpack)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-333?style=for-the-badge&logo=Redux)
-![Tailwind](https://img.shields.io/badge/-Tailwind-333?style=for-the-badge&logo=Tailwind)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333?style=for-the-badge&logo=Tailwindcss)
+![Next](https://img.shields.io/badge/-Next-333?style=for-the-badge&logo=Next.js)
+![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=Docker)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
