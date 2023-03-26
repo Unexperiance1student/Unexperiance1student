@@ -22,7 +22,7 @@ My name is **Vladislav**, I'm React developer.
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333?style=for-the-badge&logo=Tailwindcss)
 ![Next](https://img.shields.io/badge/-Next-333?style=for-the-badge&logo=Next.js)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=Docker)
-
+![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=Vite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
