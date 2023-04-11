@@ -25,6 +25,8 @@ My name is **Vladislav**, I'm React developer.
 ![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=Vite)
 ![Nest](https://img.shields.io/badge/-nestjs-333?style=for-the-badge&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
+![Swagger](https://img.shields.io/badge/-Swagger-333?style=for-the-badge&logo=Swagger)
+![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
 
 
 
