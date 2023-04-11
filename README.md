@@ -23,6 +23,10 @@ My name is **Vladislav**, I'm React developer.
 ![Next](https://img.shields.io/badge/-Next-333?style=for-the-badge&logo=Next.js)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=Docker)
 ![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=Vite)
+![Nest](https://img.shields.io/badge/-nestjs-333?style=for-the-badge&logo=nestjs)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
