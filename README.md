@@ -1,7 +1,7 @@
 <img width="100%" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="">
 
-## Frontend Developer
-My name is **Vladislav**, I'm React developer.
+## FullStack Developer
+My name is **Vladislav**, I'm React and Nest developer.
 
 ### Statistics on GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
