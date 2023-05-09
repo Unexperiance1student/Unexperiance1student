@@ -33,6 +33,9 @@ My name is **Vladislav**, I'm React and Nest developer.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
 <!--START_SECTION:waka-->
+## Languages used in the last week
+``` text
+
 <!--END_SECTION:waka-->
 
 ### Contacts
