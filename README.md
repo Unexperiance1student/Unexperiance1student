@@ -32,6 +32,8 @@ My name is **Vladislav**, I'm React and Nest developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ermungand)
