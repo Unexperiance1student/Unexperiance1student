@@ -28,9 +28,11 @@ My name is **Vladislav**, I'm React and Nest developer.
 ![Swagger](https://img.shields.io/badge/-Swagger-333?style=for-the-badge&logo=Swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
+
+### Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ermungand)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Unexperiance1student)
 
 <!--START_SECTION:waka-->
 ## Languages used in the last week
@@ -38,6 +40,3 @@ My name is **Vladislav**, I'm React and Nest developer.
 
 <!--END_SECTION:waka-->
 
-### Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ermungand)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Unexperiance1student)
