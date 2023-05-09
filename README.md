@@ -35,8 +35,6 @@ My name is **Vladislav**, I'm React and Nest developer.
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Unexperiance1student)
 
 <!--START_SECTION:waka-->
-## Languages used in the last week
-``` text
 
 <!--END_SECTION:waka-->
 
