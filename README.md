@@ -37,8 +37,10 @@ My name is **Vladislav**, I'm React and Nest developer.
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-TypeScript:           ███████████████████░ 0:07:08 98.99%
-JSON:                 █░░░░░░░░░░░░░░░░░░░ 0:00:04 1.01%
+TypeScript:           ██████████████████░░ 4:49:06 93.12%
+JSON:                 █░░░░░░░░░░░░░░░░░░░ 0:10:26 3.36%
+JavaScript:           █░░░░░░░░░░░░░░░░░░░ 0:10:01 3.23%
+Bash:                 █░░░░░░░░░░░░░░░░░░░ 0:00:53 0.29%
 ```
 
 <!--END_SECTION:waka-->
