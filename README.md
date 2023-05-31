@@ -1,8 +1,7 @@
 <img width="100%" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="">
 
 ## FullStack Developer
-My name is **Vladislav**
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=750&height=60&lines=I+am+an+FullStack+Developer+from+Krasnodar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=750&height=60&lines=My+name+is+Vladislav;I+am+an+FullStack+Developer+from+Krasnodar" alt="Typing SVG" /></a>
 <br>
 
 ### Statistics on GitHub
