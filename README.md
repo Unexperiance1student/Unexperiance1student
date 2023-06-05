@@ -36,7 +36,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Unexperiance1student)
 
 
-<img src="https://waka-widget.up.railway.app/language?langs=all&user=Unexperiance1student&randomGradient=true&bgLineColor=696969&maxLangs=5&theme=dark" />
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
