@@ -42,8 +42,9 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-TypeScript:           ███████████████████░ 21:33:03 99.66%
-YAML:                 █░░░░░░░░░░░░░░░░░░░ 0:04:25 0.34%
+TypeScript:           ███████████████████░ 1 day, 0:33:01 98.01%
+Python:               █░░░░░░░░░░░░░░░░░░░ 0:25:26 1.69%
+YAML:                 █░░░░░░░░░░░░░░░░░░░ 0:04:25 0.29%
 ```
 
 <!--END_SECTION:waka-->
