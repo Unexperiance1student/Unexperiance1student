@@ -42,8 +42,9 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-TypeScript:           ███████████████████░ 4:21:43 99.93%
-Image (svg):          █░░░░░░░░░░░░░░░░░░░ 0:00:10 0.07%
+TypeScript:           ███████████████████░ 6:42:22 99.29%
+Bash:                 █░░░░░░░░░░░░░░░░░░░ 0:02:42 0.67%
+Image (svg):          █░░░░░░░░░░░░░░░░░░░ 0:00:10 0.04%
 ```
 
 <!--END_SECTION:waka-->
