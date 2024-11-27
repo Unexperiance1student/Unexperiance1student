@@ -28,6 +28,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=PostgreSQL)
 ![Swagger](https://img.shields.io/badge/-Swagger-333?style=for-the-badge&logo=Swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
+![Vue](https://img.shields.io/badge/-Vue-333?style=for-the-badge&logo=Vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
