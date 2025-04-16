@@ -41,6 +41,9 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
+JavaScript:           █████████████░░░░░░░ 0:09:12 67.34%
+JSON:                 █████░░░░░░░░░░░░░░░ 0:03:54 28.62%
+TypeScript:           █░░░░░░░░░░░░░░░░░░░ 0:00:33 4.04%
 ```
 
 <!--END_SECTION:waka-->
