@@ -41,6 +41,10 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
+TypeScript:           ████████████░░░░░░░░ 1:00:14 63.16%
+CSS:                  ███████░░░░░░░░░░░░░ 0:34:42 36.38%
+Nginx configuration file: █░░░░░░░░░░░░░░░░░░░ 0:00:19 0.35%
+Bash:                 █░░░░░░░░░░░░░░░░░░░ 0:00:06 0.12%
 ```
 
 <!--END_SECTION:waka-->
