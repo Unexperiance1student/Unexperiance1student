@@ -41,8 +41,8 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-TypeScript:           ██████████████████░░ 0:29:55 94.17%
-Docker:               █░░░░░░░░░░░░░░░░░░░ 0:01:51 5.83%
+TypeScript:           ███████████████████░ 1:26:06 97.89%
+Docker:               █░░░░░░░░░░░░░░░░░░░ 0:01:51 2.11%
 ```
 
 <!--END_SECTION:waka-->
