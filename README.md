@@ -41,6 +41,7 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
+Python:               ████████████████████ 1:21:07 100.0%
 ```
 
 <!--END_SECTION:waka-->
