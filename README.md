@@ -41,6 +41,8 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
+TypeScript:           ███████████████████░ 1:34:14 99.11%
+Other:                █░░░░░░░░░░░░░░░░░░░ 0:00:50 0.89%
 ```
 
 <!--END_SECTION:waka-->
