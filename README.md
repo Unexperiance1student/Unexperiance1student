@@ -28,8 +28,6 @@
 ![Vue](https://img.shields.io/badge/-Vue-333?style=for-the-badge&logo=Vue)
 ![Go](https://img.shields.io/badge/-Go-333?style=for-the-badge&logo=Vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
-
 ### Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ermungand)
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub&logoColor=fff)](https://github.com/Unexperiance1student)
