@@ -1,11 +1,8 @@
 <img width="100%" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="">
 
 ## FullStack Developer
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=750&height=60&lines=My+name+is+Vladislav;I+am+a+FrontEnd+Developer+from+Krasnodar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&multiline=true&width=750&height=60&lines=My+name+is+Vladislav;I+am+a+FullStack+Developer+from+Krasnodar" alt="Typing SVG" /></a>
 <br>
-
-### Statistics on GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Unexperiance1student&show_icons=true&hide=prs,issues,contribs&theme=dark)
 
 ### My technology stack
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
@@ -29,6 +26,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-333?style=for-the-badge&logo=Swagger)
 ![Postman](https://img.shields.io/badge/-Postman-333?style=for-the-badge&logo=Postman)
 ![Vue](https://img.shields.io/badge/-Vue-333?style=for-the-badge&logo=Vue)
+![Go](https://img.shields.io/badge/-Go-333?style=for-the-badge&logo=Vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unexperiance1student&layout=compact&theme=dark)
 
