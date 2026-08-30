@@ -39,8 +39,6 @@
 <!--START_SECTION:waka-->
 ## Languages used in the last week
 ```text
-Go:                   ███████████████████░ 1:02:24 98.76%
-Text:                 █░░░░░░░░░░░░░░░░░░░ 0:00:46 1.24%
 ```
 
 <!--END_SECTION:waka-->
