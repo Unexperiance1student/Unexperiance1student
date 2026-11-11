@@ -37,9 +37,6 @@
 
 
 <!--START_SECTION:waka-->
-## Languages used in the last week
-```text
-```
-
+Block languages is not allowed
 <!--END_SECTION:waka-->
 
